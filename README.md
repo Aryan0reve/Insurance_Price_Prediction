@@ -1,7 +1,7 @@
 
 Overview:
 This project implements a medical insurance price prediction model using Machine Learning techniques.
-The model is built using Linear Regression, Polynomial Regression,XGBoost,Random Forest Regression. The primary objective is to predict
+The model is built using Linear Regression, Polynomial Regression,XGBoostand Random Forest Regression. The primary objective is to predict
 insurance costs based on various input features such as age, BMI, number of dependents, and smoking habits.
 
 
@@ -30,8 +30,3 @@ The model is evaluated using:
 R-squared Score: Measures how well the model explains variance.
 Mean Absolute Error (MAE): Measures average prediction error.
 
-
-Results:
-Polynomial regression improves prediction accuracy compared to linear regression.
-Key factors affecting insurance costs: age, BMI, and smoking status.
-Smokers tend to have significantly higher insurance costs
